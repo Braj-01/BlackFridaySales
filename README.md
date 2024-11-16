@@ -46,9 +46,9 @@ The project includes:
    - How does location (city tier) affect sales?  
 
 ## 🎯 Key Findings  
-- Example: **Male customers aged 26-35** are the highest spenders.  
-- Example: **Product Category 1** drives the majority of revenue.  
-- Example: Customers from **Tier-1 cities** tend to spend more on average.  
+- **Male customers aged 26-35** are the highest spenders.  
+- **Product Category 1** drives the majority of revenue.  
+- Customers from **Tier-1 cities** tend to spend more on average.  
 
 ## 🧑‍💻 How to Use  
 1. Clone the repository:  
