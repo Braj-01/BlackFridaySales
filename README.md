@@ -53,9 +53,32 @@ The project includes:
 ## 🧑‍💻 How to Use  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/Braj-01/blackfriday-sales-eda.git
+   git clone https://github.com/Braj-01/BlackFridaySales.git
+   ```
+
+
+2. **Navigate to the Project Directory**  
+   Move into the project directory:  
+   ```bash
+   cd BlackFridaySales
+  
+
+## 📚 Future Scope
+
+- Predict customer purchases using machine learning models.
+- Create an interactive dashboard for sales visualization.
+- Perform advanced customer segmentation for targeted marketing.
+## 🤝 Contributing
+
+Contributions are welcome! If you want to contribute:
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature-name`)
+3. Commit your changes (`git commit -m "Add feature"`)
+4. Push to the branch (`git push origin feature-name`)
+5. Open a Pull Request
    
 ## 📬 Contact 
 ### For any queries or suggestions, feel free to connect: 
-* **Name**: Braj Narayan Awasthi *
-*  **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/braj-narayan-awasthi-33193a274)”
+ **Name**: Braj Narayan Awasthi 
+*  **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/braj-narayan-awasthi-33193a274)
