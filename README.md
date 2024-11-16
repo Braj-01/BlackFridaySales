@@ -54,3 +54,5 @@ The project includes:
 1. Clone the repository:  
    ```bash
    git clone https://github.com/Braj-01/blackfriday-sales-eda.git
+   
+📬 Contact ---------- For any queries or suggestions, feel free to connect: * **Name**: Braj Narayan Awasthi * **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/braj-narayan-awasthi-33193a274)”
