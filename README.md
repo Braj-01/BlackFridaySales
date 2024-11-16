@@ -12,7 +12,8 @@ The dataset contains anonymized information about customers and their purchase b
 ### Key Features of the Dataset:  
 - **Rows**: (Number of rows in the dataset, e.g., `550,000`)  
 - **Columns**: (Number of columns, e.g., `12`)  
-- Dataset can be downloaded from [Main Folder]([https://www.kaggle.com/sdolezel/black-friday](https://github.com/Braj-01/BlackFridaySales/blob/main/BlackFriday/BlackFriday.csv)).  
+-The dataset used for this project is available in this repository. You can access it directly:
+ [Black Friday Sales Dataset]([https://www.kaggle.com/sdolezel/black-friday](https://github.com/Braj-01/BlackFridaySales/blob/main/BlackFriday/BlackFriday.csv)).  
 
 ## 🛠️ Tools and Libraries  
 - **Python**: For scripting and analysis  
@@ -52,4 +53,4 @@ The project includes:
 ## 🧑‍💻 How to Use  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/blackfriday-sales-eda.git
+   git clone https://github.com/Braj-01/blackfriday-sales-eda.git
